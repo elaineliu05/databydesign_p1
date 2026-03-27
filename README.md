@@ -59,7 +59,7 @@ This work combines domains from environmental science and data science. We are a
 
 **Background reading**:
 
-ADD LINK TO FOLDER W THESE URLS
+link to: [folder](https://myuva-my.sharepoint.com/:f:/g/personal/bpa2hu_virginia_edu/IgCN8VwFUjTuR6Sdv8rNojNwAfWudNasFactl1rbGVHurk0?e=aPaQjo) (background reading folder)
 1. https://www.mdpi.com/2072-4292/12/5/826
 2. https://www.soest.hawaii.edu/oceanography/courses/OCN626/2008_OCN%20626/steinberg_Deepsea.pdf
 3. https://www.nature.com/articles/s41598-020-59989-y
