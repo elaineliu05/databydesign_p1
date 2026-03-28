@@ -11,7 +11,7 @@ DOI: TODO
 
 Press Release: ADDLINK
 
-Data: ADDLINK
+Data: [data folder](https://myuva-my.sharepoint.com/:f:/g/personal/bpa2hu_virginia_edu/IgAliK4bc6AsQruETaP0ny1ZARABee2bor8mKPRcuSiCsW0?e=HmfbTM)
 
 Pipeline: ADDLINK
 
@@ -197,7 +197,9 @@ CTD Profiles
 
 **Data Dictionary - Quantifying Uncertainty**:
 
-Since these are in situ measurements, there is a lot of uncertainty surrounding the numerical features. Luckily, the bats website helps quantify uncertainty values during their preprocessing steps. For instance, quality control flags are set for most variables, meaning that for each observation, there is a numerical quality control flag that tells you how confident they are in this value. If the quality control flag is high, it means that its more possible that this is bad quality data, and could be removed if you want a more robust analysis. This helps indicate data reliability to the user and lets the user choose how much uncertainty they are willing to risk. Quality control flags are set for primary productviity values, so we are able to quantify uncertainity for our target variable. Another important variable is depth, which is measured in the CTD table and is generally precise. They do discrete sampling every 20 m interval, but introduce resolution uncertainty. This can be handled by treating depth as binned or discrete levels. Each dataset also has time variables like datetime since this is a time series dataset. There is little uncertainity with these numbers, since they used ISO standardized formats. Overall, the uncertainity in the numerical values are primarily systematic and stem from how the data was processed, rather than measurement error. They have helped quantify error through quality flag variables and standardized procedures.
+Since these are in situ measurements, there is a lot of uncertainty surrounding the numerical features. Luckily, the bats website helps quantify uncertainty values during their preprocessing steps. For instance, quality control flags are set for most variables, meaning that for each observation, there is a numerical quality control flag that tells you how confident they are in this value. If the quality control flag is high, it means that its more possible that this is bad quality data, and could be removed if you want a more robust analysis. This helps indicate data reliability to the user and lets the user choose how much uncertainty they are willing to risk. 
+
+Quality control flags are set for primary productivity values, so we are able to quantify uncertainty for our target variable. Specifically, in the table, the first record of primary productivity has a quality control flag of 2, which means that we can be relatively certain that we can trust this measurement. The second row has a quality control flag of 9, and the value is missing, meaning that they could not reliably measure primary productivity at that depth. Another important variable is depth, which is measured in the CTD table and is generally precise. They do discrete sampling every 20 m interval, so we can generally quantify uncertainty to be 0. However, this introduces resolution uncertainty. This can be handled by treating depth as binned or discrete levels. Each dataset also has time variables like datetime since this is a time series dataset. There is very little uncertainty with these numbers, since they used ISO standardized formats, so we can also quantify it to be 0. Overall, the uncertainty in the numerical values is primarily systematic and stems from how the data was processed, rather than measurement error. They have helped quantify error through quality flag variables and standardized procedures.
 
 **Data**:
 
