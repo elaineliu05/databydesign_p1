@@ -15,7 +15,7 @@ Data: [data folder](https://myuva-my.sharepoint.com/:f:/g/personal/bpa2hu_virgin
 
 Pipeline: ADDLINK
 
-License: MIT License. ADDLINK
+License: MIT License. [license file](https://github.com/elaineliu05/databydesign_p1/blob/main/LICENSE)
 
 ## Problem Definition:
 
