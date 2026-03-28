@@ -9,7 +9,7 @@ Net ID: bpa2hu
 
 DOI: TODO
 
-Press Release: ADDLINK
+Press Release: [press release file](https://github.com/elaineliu05/databydesign_p1/blob/main/press_release.md)
 
 Data: [data folder](https://myuva-my.sharepoint.com/:f:/g/personal/bpa2hu_virginia_edu/IgAliK4bc6AsQruETaP0ny1ZARABee2bor8mKPRcuSiCsW0?e=HmfbTM)
 
