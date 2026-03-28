@@ -108,6 +108,7 @@ There were many important and critical decisions that needed to be made when com
 ## Metadata
 
 **Schema ER Diagram**: 
+
 <img width="483" height="669" alt="image" src="https://github.com/user-attachments/assets/65ca6f68-e235-476a-8993-561b4439e2f0" />
 
 **Table of Tables in Dataset**:
