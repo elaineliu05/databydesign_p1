@@ -113,7 +113,7 @@ There were many important and critical decisions that needed to be made when com
 
 **Table of Tables in Dataset**:
 
-| Table Name | Description | Link to Code |
+| Table Name | Description | Link to File |
 |---|---|---|
 | Primary Productivity | Contains measurements of primary productivity estimates at the BATS site from 1988 to June 2025. Measurements were collected in situ at depths ranging from the surface to 140 meters. | [link](https://drive.google.com/file/d/1ekk2X68H3gcmCKY525-cOa9S79sX3uYV/view?usp=sharing) |
 | Discrete Bottle Measurements | Contains measurements of discrete bottle samples collected at the BATS site from October 1988 through June 2025. Measurements were collected on monthly cruises and include variables such as depth, temperature, and various nutrients. | [link](https://drive.google.com/file/d/1qOnIcw67wfZphVeeHM6kPmnOI-beQJ2g/view?usp=sharing) |
@@ -204,4 +204,4 @@ Quality control flags are set for primary productivity values, so we are able to
 
 **Data**:
 
-Link to UVA OneDrive Folder: (here)[https://myuva-my.sharepoint.com/:f:/g/personal/bpa2hu_virginia_edu/IgAliK4bc6AsQruETaP0ny1ZAWyETGFHBKURFV5wC6UvnWU?e=f4WWjt]
+Link to UVA OneDrive Folder: [here](https://myuva-my.sharepoint.com/:f:/g/personal/bpa2hu_virginia_edu/IgAliK4bc6AsQruETaP0ny1ZAWyETGFHBKURFV5wC6UvnWU?e=f4WWjt)
