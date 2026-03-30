@@ -59,7 +59,7 @@ This work combines domains from environmental science and data science. We are a
 
 **Background reading**:
 
-link to: [folder](https://myuva-my.sharepoint.com/:f:/g/personal/bpa2hu_virginia_edu/IgCN8VwFUjTuR6Sdv8rNojNwAfWudNasFactl1rbGVHurk0?e=aPaQjo) (click on background reading folder)
+link to: [folder](https://myuva-my.sharepoint.com/:f:/g/personal/bpa2hu_virginia_edu/IgAGGhnzGGWKSovkSv4FR-3YASmK71JRexhQR0ciS1RHkHg?e=R8K7wx) 
 
 **Summary Table**:
 
