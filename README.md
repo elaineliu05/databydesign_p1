@@ -13,7 +13,7 @@ Press Release: [press release file](https://github.com/elaineliu05/databydesign_
 
 Data: [data folder](https://myuva-my.sharepoint.com/:f:/g/personal/bpa2hu_virginia_edu/IgAliK4bc6AsQruETaP0ny1ZARABee2bor8mKPRcuSiCsW0?e=HmfbTM)
 
-Pipeline: ADDLINK
+Pipeline: pipeline link
 
 License: MIT License. [license file](https://github.com/elaineliu05/databydesign_p1/blob/main/LICENSE)
 
@@ -35,7 +35,7 @@ Primary productivity plays an important role in helping mitigate climate change,
 
 **Headline**:
 
-Predicting Primary Productivity: Helping Forecast Climate Change Using Our Oceans. ADDLINK
+[Predicting Primary Productivity: Helping Forecast Climate Change Using Our Oceans](https://github.com/elaineliu05/databydesign_p1/blob/main/press_release.md)
 
 
 ## Domain Exposition:
