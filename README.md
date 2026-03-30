@@ -74,7 +74,7 @@ link to: [folder](https://myuva-my.sharepoint.com/:f:/g/personal/bpa2hu_virginia
 
 ## Data Creation
 
-The dataset for my project 1 can be found at this (link)[https://www.bco-dmo.org/project/2124]. This includes all of the data from the BATS research study. This includes CSV files for all measurements regarding BATS data, as well as data dictionaries and citations for all of them. There are 9 different datasets listed from the different biogeochemical ocean measurements that they take. 
+The dataset for my project 1 can be found at this [link](https://www.bco-dmo.org/project/2124). This includes all of the data from the BATS research study. This includes CSV files for all measurements regarding BATS data, as well as data dictionaries and citations for all of them. There are 9 different datasets listed from the different biogeochemical ocean measurements that they take. 
 
 I chose to focus on 4 different datasets: the primary productivity estimates, discrete bottle samples, HPLC and fluorometric-derived phytoplankton pigment concentrations, and CTD profiles. There is an option to download the CSV file for each dataset, which lists the parameters, funding, instruments, deployments, and archives. I saved the csvs and then processed them using DuckDB and SQL queries. The specific table names are included below:
 
