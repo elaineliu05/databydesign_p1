@@ -24,4 +24,4 @@ Why might this important to you? The goal of this analysis is to see whether we 
 <img width="1075" height="558" alt="image" src="https://github.com/user-attachments/assets/a2185d4a-9a7c-412c-be8f-f721a710b1bc" />
 
 
-In the scatterplot above, we can see primary productivity values over time. The dotted red line marks the separation between the train and test set. Specifically, the last 20% of the data was reserved for the test set, since this is a forecasting problem. We can see there are no obvious trends in primary productivity over time just looking at this plot, so hopefully, further data analysis will help us better understand trends in primary productivity.
+In the scatterplot above, we can see primary productivity values over time. The dotted red line marks the separation between the train and test set. Specifically, the last 15% of the data was reserved for the test set, since this is a forecasting problem. We can see there are no obvious trends in primary productivity over time just looking at this plot, so hopefully, further data analysis will help us better understand trends in primary productivity.
