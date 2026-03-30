@@ -1,7 +1,7 @@
-# DS 4320 Project 1: Forecasting Primary Productivity for Climate Change Mitigation
+# DS 4320 Project 1: Forecasting Primary Productivity for Climate Change Insights
  
 
-Executive summary: TODO
+Executive summary: The goal of this github repository is to forecast primary productivity values to help us predict future climate change effects. This was done using a data analysis pipeline and includes jupyter notebooks for cleaning and processing oceanographic datasets, which can be found in the pipeline folder. Also included in the repository is a press release for potential end users and license. 
 
 Name: Elaine Liu
 
@@ -13,7 +13,7 @@ Press Release: [press release file](https://github.com/elaineliu05/databydesign_
 
 Data: [data folder](https://myuva-my.sharepoint.com/:f:/g/personal/bpa2hu_virginia_edu/IgAliK4bc6AsQruETaP0ny1ZARABee2bor8mKPRcuSiCsW0?e=HmfbTM)
 
-Pipeline: pipeline link
+Pipeline: [pipeline link](https://github.com/elaineliu05/databydesign_p1/tree/main/pipeline)
 
 License: MIT License. [license file](https://github.com/elaineliu05/databydesign_p1/blob/main/LICENSE)
 
@@ -83,10 +83,10 @@ Data Creation Table (with links to code):
 ADD LINKS TO CODE LATER 
 | Table Name | Description | Link to Code |
 |---|---|---|
-| bats_pp | Primary productivity estimates from the incubation of seawater collected at the Bermuda Atlantic Time-series Study (BATS) site from December 1988 through June 2025 | Cell C1 |
-| bats_bot | Discrete bottle samples collected at the Bermuda Atlantic Time-series Study (BATS) site in the Sargasso Sea from October 1988 through June 2025 | Cell C2 |
-| bats_pig | HPLC and fluorometric-derived phytoplankton pigment concentrations from seawater collected at the Bermuda Atlantic Time-series Study (BATS) site from October 1988 through June 2025 | Cell C2 |
-| bats_ctd | Two decibar averaged CTD profiles collected at the Bermuda Atlantic Time-series Study (BATS) site from October 1988 through June 2025 | Cell C2 |
+| bats_pp | Primary productivity estimates from the incubation of seawater collected at the Bermuda Atlantic Time-series Study (BATS) site from December 1988 through June 2025 | (code)[https://github.com/elaineliu05/databydesign_p1/blob/main/pipeline/pipeline.ipynb] |
+| bats_bot | Discrete bottle samples collected at the Bermuda Atlantic Time-series Study (BATS) site in the Sargasso Sea from October 1988 through June 2025 | (code)[https://github.com/elaineliu05/databydesign_p1/blob/main/pipeline/pipeline.ipynb] |
+| bats_pig | HPLC and fluorometric-derived phytoplankton pigment concentrations from seawater collected at the Bermuda Atlantic Time-series Study (BATS) site from October 1988 through June 2025 | (code)[https://github.com/elaineliu05/databydesign_p1/blob/main/pipeline/pipeline.ipynb] |
+| bats_ctd | Two decibar averaged CTD profiles collected at the Bermuda Atlantic Time-series Study (BATS) site from October 1988 through June 2025 | (code)[https://github.com/elaineliu05/databydesign_p1/blob/main/pipeline/pipeline.ipynb] |
 
 **Bias Identification**:
 

@@ -2,3 +2,4 @@
 .parquet
 /data
 .venv
+/pipeline/bats_analysis.log
